@@ -1,2 +1,2 @@
-# htmi-portfolio
+# html-portfolio
 Udemy, lesson
